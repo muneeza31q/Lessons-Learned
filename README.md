@@ -9,11 +9,12 @@ Hi there, I'm Mun!
 Hello Mun is a passion project to track my learning progress of coding and concepts in the world of data science.
 
 
-You can find me here as well:
-
-<div id="badges">
+You can find me here as well:  <div id="badges">
   <a href="https://www.linkedin.com/in/muneeza-qureshi-358756137/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
   </div>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=MUN&show_icons=true&theme=ADD_THEME_HERE" width="400">
