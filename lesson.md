@@ -53,18 +53,25 @@ Here, the list of the keys from the capital_dict will be defined as “States”
 
 In the blank space, we would type California as California is stated on the left side. Once we press the Enter button, its capital will show.
 
+
 <div id="badges">
 <a href="https://miro.medium.com/max/1750/1*THBmpGADGw6SYnjFn4-E_g.png">
   <img src="https://miro.medium.com/max/1750/1*THBmpGADGw6SYnjFn4-E_g.png"/>
   </a>
   </div>
 
+
+
 As for the else statement, the statement serves as a false statement if entering a different state or capital that is not mentioned from the capital_dict list. The output is shown below:
+
+
 
 <div id="badges">
 <a href="https://miro.medium.com/max/1750/1*m_ZWqpK4WBvrT6c1rp5fRQ.png">
   <img src="https://miro.medium.com/max/1750/1*m_ZWqpK4WBvrT6c1rp5fRQ.png"/>
   </a>
   </div>
+
+
 
 Thank you for reading this post! I hope you learned a tip from this post. Feel free to provide feedback anytime.
